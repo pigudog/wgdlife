@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wgdlife"
+version = "1.0.0"
+description = "The computational methods of 'The life history of whole-genome doubling across human cancers': WGD criterion, WGD-anchored selection, event timing and consensus, matched primary-metastasis comparison."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+authors = [{ name = "Yangyang Zhang" }]
+keywords = ["whole-genome doubling", "WGD", "aneuploidy", "tumour evolution", "cancer genomics"]
+dependencies = [
+    "numpy==2.2.6",
+    "pandas==2.3.3",
+    "scipy==1.15.3",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==9.1.1"]
+
+[project.urls]
+Homepage = "https://github.com/pigudog/wgdlife"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

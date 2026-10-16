@@ -1,0 +1,29 @@
+event	event_class	n	P_pre	ci_lo	ci_hi	P_pre_primary	P_pre_metastasis
+TP53	SNV (oncogenic)	3788	0.94	0.93	0.95	0.94	0.95
+STK11	SNV (oncogenic)	185	0.92	0.88	0.95	0.92	0.93
+KEAP1	SNV (oncogenic)	99	0.91	0.84	0.95	0.93	0.89
+CDKN2A	SNV (oncogenic)	212	0.91	0.86	0.94	0.93	0.89
+KRAS	SNV (oncogenic)	341	0.87	0.83	0.91	0.85	0.89
+APC	SNV (oncogenic)	405	0.85	0.81	0.88	0.87	0.82
+RB1	SNV (oncogenic)	190	0.82	0.75	0.86	0.79	0.85
+SMAD4	SNV (oncogenic)	123	0.8	0.72	0.86	0.78	0.81
+ATM	SNV (oncogenic)	94	0.79	0.69	0.86	0.76	0.82
+NF1	SNV (oncogenic)	98	0.79	0.69	0.86	0.86	0.71
+PTEN	SNV (oncogenic)	157	0.76	0.69	0.82	0.76	0.77
+SMARCA4	SNV (oncogenic)	100	0.76	0.67	0.83	0.74	0.77
+ARID1A	SNV (oncogenic)	148	0.76	0.68	0.82	0.81	0.69
+PIK3CA	SNV (oncogenic)	224	0.73	0.67	0.79	0.69	0.77
+EGFR	SNV (oncogenic)	95	0.71	0.61	0.79	0.69	0.73
+KMT2D	SNV (oncogenic)	70	0.7	0.58	0.79	0.74	0.61
+PIK3R1	SNV (oncogenic)	62	0.63	0.5	0.74	0.68	0.55
+All non-synonymous mutations (baseline)	SNV	17027	0.7	0.7	0.71	0.72	0.69
+17p loss	Arm loss	5289	0.81	0.8	0.82	0.79	0.83
+22q loss	Arm loss	4790	0.59	0.57	0.6	0.55	0.62
+16q loss	Arm loss	4000	0.48	0.46	0.49	0.45	0.51
+17q loss	Arm loss	3297	0.47	0.45	0.48	0.44	0.5
+6q loss	Arm loss	3731	0.45	0.43	0.46	0.42	0.48
+11p loss	Arm loss	4702	0.4	0.38	0.41	0.4	0.4
+12q loss	Arm loss	3651	0.33	0.31	0.34	0.33	0.33
+3q loss	Arm loss	3138	0.26	0.25	0.28	0.26	0.27
+20p loss	Arm loss	2673	0.13	0.12	0.14	0.12	0.14
+All timed arm losses (baseline)	Arm loss	144140	0.41	0.41	0.41	0.4	0.42
