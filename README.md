@@ -1,6 +1,6 @@
 # wgdlife
 
-Computational methods of *The life history of whole-genome doubling across human cancers* (Zhang et al., 2026):
+Computational methods of *Evolutionary characterization of whole-genome doubling across human cancers* (Zhang et al., 2026):
 WGD classification, WGD-anchored selection analysis, event timing with its consensus meta-analysis, and the
 matched primary–metastasis comparison. Python 3.10; the convergence test (`R/`) is R.
 
